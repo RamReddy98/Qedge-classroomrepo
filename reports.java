@@ -8,4 +8,10 @@ Working with the git advance commands
 Autobuild process is important for a fail strategy.
  
 Provides the feedback on the quality of committed code changes.
+         
+New changes by Dev2
+Credit and Debit card Reports
+Customized monthly wise
+
+Mutual bond services introduced
 
