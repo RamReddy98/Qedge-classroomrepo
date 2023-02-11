@@ -15,3 +15,12 @@ Working with git  adv.commands
 AUtobuild process is important for a fail strategy.
 
 provides the feedback on the quality of commited code changes.
+
+with Build process or build automation
+we get the following advantage
+
+[A[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[B[C[C[C[C[C[Cs
+-Quality of the product improves
+-Code Compilation and its processing will get accelarated 
+-Bugs will be minimized in autobuilds
+compiling the code which created the binary code successfully compilation of java files
